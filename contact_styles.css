@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(111, 5, 160);
+    
+}
+
+form{
+    background-color: white;
+    margin-top: 80px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 10px;
+}
+#main{
+    display: flex;
+    height: 650px;
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    
+   
+}
+
+h1{
+    text-align: center;
+    color:rgb(111, 5, 160) ;
+    margin-top: 45px;
+}
+
+p{
+    text-align: center;
+
+    
+}
+
+#privacy{
+    color: rgb(111, 5, 160);
+    text-align: left;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    width: 100%;
+    height: auto;
+    padding-left: 20px;
+    
+}
+
+#div2{
+   text-align: left;
+    width: 50%;
+    margin-left: 80px;
+    margin-top: 45px;
+
+}
+#div1{
+    padding-left: 20px;
+}
+
+.inputbox{
+    width: 90%;
+    height: 35px;
+    border-radius: 5px;
+    border-width: 3px;
+    border-color: black;
+}
+
+#message{
+    height: 150px;
+}
+
+button{
+    background-color:rgb(111, 5, 160) ;
+    width: 40%;
+    height: 50px;
+    color: white;
+    border-radius: 5px;
+    margin-top: 15px;
+    font-size: 22px;
+}
